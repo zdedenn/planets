@@ -2,3 +2,4 @@ Pluto is not actually a planet.
 It is a dwarf planet.
 ... and way too far ... !
 Its orbit is inclined relative to the ecliptic.
+Apparently, Pluto causes conflicts.
